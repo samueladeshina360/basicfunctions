@@ -1,0 +1,2 @@
+# basicfunctions
+Two JavaScript functions
